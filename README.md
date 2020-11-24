@@ -1,2 +1,2 @@
 # Mini-Calculator
-A simple python calculator, build with Tkinter.
+A simple python calculator, built with Tkinter.
